@@ -1,0 +1,6 @@
+{
+  "name": "Air Hockey",
+  "description": "A single-file HTML5 Air Hockey game featuring smart AI, realistic 2D physics, neon arcade visuals, and Web Audio effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
